@@ -8,5 +8,5 @@
 | Project       | Description   |
 | ------------- |:-------------:|
 | [Identifying potential travel insurance package purchasers](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Identifying%20potential%20travel%20insurance%20package%20purchasers.ipynb)| right-aligned |
-| col 2 is      | centered      |
+| [Sentiment analysis with gaming consoles](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Sentiment%20analysis%20with%20gaming%20consoles.ipynb)      | centered      |
 | zebra stripes | are neat      |
