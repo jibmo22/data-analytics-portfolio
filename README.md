@@ -7,6 +7,12 @@
 
 ### Python projects
 
+| Project        | Description of the project           | Libraries used  |
+| ------------- |:-------------:| -----:|
+| [Identifying potential travel insurance package purchasers](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Identifying%20potential%20travel%20insurance%20package%20purchasers.ipynb)     | he project's objective was to develop three classification models for identifying potential buyers of a travel insurance package |  |
+| col 2 is      | centered      |    |
+| zebra stripes | are neat      |    |
+
 | Project       | Description of the project   |
 | ------------- |:-------------:|
 | [Identifying potential travel insurance package purchasers](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Identifying%20potential%20travel%20insurance%20package%20purchasers.ipynb)|The project's objective was to develop three classification models for identifying potential buyers of a travel insurance package|
