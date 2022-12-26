@@ -3,6 +3,8 @@
 
 ### Welcome to my data analytics portfolio, where I provide a walkthrough of some of my Python and SQL projects.
 
+
+
 ### Python projects
 
 | Project       | Description of the project   |
