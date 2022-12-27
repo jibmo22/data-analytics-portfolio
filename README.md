@@ -16,6 +16,8 @@
 
 
 ### SQL projects
+#### Functions used: aggregations, subqueries, CTEs, CASE WHEN statements & pattern matchings
+
 | Project        | Description of the project           | Dataset  |Main functions used|
 | ------------- |:-------------:| -----:|-----:|
-| [the top 500 most valuable football players in 2021 ⚽️](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Football%20players%20market%20value%20analysis.sql) |Analyzed the top 500 football players with the highest market values of 2021 and their game performances|[Link to dataset](https://www.kaggle.com/datasets/sanjeetsinghnaik/most-expensive-footballers-2021)|aggregations, subqueries, CTEs, CASE WHEN statements & pattern matchings|
+| [the top 500 most valuable football players in 2021 ⚽️](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Football%20players%20market%20value%20analysis.sql) |Analyzed the top 500 football players with the highest market values of 2021 and their game performances|[Link to dataset](https://www.kaggle.com/datasets/sanjeetsinghnaik/most-expensive-footballers-2021)|
