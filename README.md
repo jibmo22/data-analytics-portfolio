@@ -3,11 +3,13 @@
 
 ### Welcome to my data analytics portfolio, where I provide a walkthrough of some of my Python and SQL projects.
 
+#### Click on the project's 
+
 
 
 ### Python projects
 
-| Project        | Description of the project           | Main libraries used  |
+| Project name        | Description of the project           | Main libraries used  |
 | ------------- |:-------------:| -----:|
 | [Identifying potential travel insurance package purchasers 🗺](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Identifying%20potential%20travel%20insurance%20package%20purchasers.ipynb)     | The project's objective was to develop three classification models for identifying potential buyers for a travel insurance package |pandas, numpy, seaborn, matplotlib & sklearn|
 | [Sentiment analysis with gaming consoles 🎮](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Sentiment%20analysis%20with%20gaming%20consoles.ipynb)      | The project's goal was to develop a competitive gaming console using sentiment analysis of customer reviews        |pandas, numpy, seaborn, matplotlib & sklearn|
@@ -18,6 +20,6 @@
 ### SQL projects
 #### Functions used in the projects: aggregations, subqueries, CTEs, CASE WHEN statements & pattern matchings
 
-| Project        | Description of the project           | Dataset  |
+| Project name        | Description of the project           | Dataset  |
 | ------------- |:-------------:| -----:|
 | [The top 500 most valuable football players in 2021 ⚽️](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Football%20players%20market%20value%20analysis.sql) |Analyzed the top 500 football players with the highest market values of 2021 and their game performances|[Link to dataset](https://www.kaggle.com/datasets/sanjeetsinghnaik/most-expensive-footballers-2021)|
