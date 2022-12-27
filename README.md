@@ -18,3 +18,4 @@
 ### SQL projects
 | Project        | Description of the project           | Dataset  |Main tools used|
 | ------------- |:-------------:| -----:|-----:|
+| [Analyzing the top 500 most valuable football players in 2021 ⚽️](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Football%20players%20market%20value%20analysis.sql) |:-------------:| -----:|-----:|
