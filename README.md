@@ -3,7 +3,7 @@
 
 ### Welcome to my data analytics portfolio, where I provide a walkthrough of some of my Python and SQL projects.
 
-#### Click on the projects and datasets(coloured in blue) to view them!
+### Click on the projects and datasets(coloured in blue) to view them!
 
 
 
