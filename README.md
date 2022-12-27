@@ -16,3 +16,5 @@
 
 
 ### SQL projects
+| Project        | Description of the project           | Dataset  |Main tools used|
+| ------------- |:-------------:| -----:|-----:|
