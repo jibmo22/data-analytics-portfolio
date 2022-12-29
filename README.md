@@ -20,7 +20,7 @@
 
 
 ### SQL projects
-#### Functions used in the projects: aggregations, subqueries, CTEs, CASE WHEN statements & pattern matchings, Windows
+#### Methods used in the projects: aggregations, subqueries, CTEs, CASE WHEN statements & pattern matchings, Window functions
 
 | Project        | Description of the project           | Dataset  |
 | ------------- |:-------------:| -----:|
