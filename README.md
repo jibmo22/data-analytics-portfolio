@@ -26,4 +26,4 @@
 | ------------- |:-------------:| -----:|
 | [The top 500 most valuable football players in 2021 ⚽️](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Football%20players%20market%20value%20analysis.sql) |Analyzed the top 500 football players with the highest market values of 2021 and their game performances|[Link to dataset](https://www.kaggle.com/datasets/sanjeetsinghnaik/most-expensive-footballers-2021)|
 
-[Credit card spending habits 💳](https://github.com/jibmo22/data-analytics-portfolio/blob/main/transactions.sql) |Cleaned and analyzed credit card spending habits in India|[Link to dataset] https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india|
+[Credit card spending habits 💳](https://github.com/jibmo22/data-analytics-portfolio/blob/main/transactions.sql) |Cleaned and analyzed credit card spending habits in India|[Link to dataset](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)|
