@@ -4,7 +4,7 @@
 ### Welcome to my data analytics portfolio, where I provide a walkthrough of some of my Python and SQL projects.
 
 
-**Click on the projects and datasets(highlighted and coloured in** <span style="color:blue">blue</span>)**to view them**
+**Click on the projects and datasets(highlighted and coloured in 🔵)**to view them**
 
 
 
