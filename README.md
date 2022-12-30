@@ -20,7 +20,7 @@ Click on the projects and datasets(highlighted and coloured in blue) to view the
 
 
 ### SQL projects
-#### Methods used in the projects: aggregations, CASE WHEN statements, CTEs, GROUP BY, joins, subqueries, pattern matchings, WHERE clauses, Window functions
+Methods used in the projects: aggregations, CASE WHEN statements, CTEs, GROUP BY, joins, subqueries, pattern matchings, WHERE clauses, Window functions
 
 | Project        | Description of the project           | Dataset  |
 | ------------- |:-------------:| -----:|
