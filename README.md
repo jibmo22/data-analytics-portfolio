@@ -1,7 +1,7 @@
 # Mohamed Jibril - Data Analytics Portfolio
 ### Hi there 👋, I am Mohamed! 
 
-### Welcome to my data analytics portfolio, where I provide a walkthrough of some of my Python and SQL projects.
+### Welcome to my data analytics portfolio, where I provide a walkthrough of my Python and SQL projects.
 
 
 *Click on the projects and datasets(highlighted and coloured in blue) to view them!*
