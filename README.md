@@ -10,7 +10,7 @@
 
 
 ### Python projects
-Methods used in the projects: **building and training machine learning models, data cleaning and manipulation & data visualisations and exploratory data analysis**
+Methods used in the projects: **Building and Training Machine Learning Models, Data Cleaning and Manipulation & Data Visualisations and Exploratory Data Analysis**
 
 
 | Project        | Description of the project           | Main libraries used  |
@@ -23,7 +23,7 @@ Methods used in the projects: **building and training machine learning models, d
 
 ### SQL projects
 
-Methods used in the projects: **aggregations, CASE WHEN statements, CTEs, data cleaning, GROUP BY, joins, subqueries, pattern matchings, WHERE clauses, Window functions**
+Methods used in the projects: **Aggregations, CASE WHEN Statements, CTEs, Data Cleaning, GROUP BY, Joins, Subqueries, Pattern Matchings, WHERE Clauses, Window Functions**
 
 | Project        | Description of the project           | Dataset  |
 | ------------- |:-------------:| -----:|
