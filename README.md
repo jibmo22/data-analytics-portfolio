@@ -20,8 +20,7 @@ Methods used in the projects: **Building and Training Machine Learning Models, D
 | [Sentiment analysis with gaming consoles 🎮](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Python%20projects/Sentiment%20analysis%20with%20gaming%20consoles.ipynb)      | The project's goal was to develop a competitive gaming console using sentiment analysis of customer reviews        |pandas, numpy, seaborn, matplotlib & sklearn|
 | [Survival analysis with scooters 🛴](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Python%20projects/Survival%20analysis%20with%20scooters.ipynb) | The project's aim was to conduct a survival and exploratory data analysis to reduce repair costs associated with scooters|pandas, numpy, seaborn, matplotlib & sksurv|
 
-
-
+\
 ### SQL projects
 ***
 
