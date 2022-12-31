@@ -21,7 +21,7 @@ Methods used in the projects: **building and training machine learning models, d
 
 
 
-### SQL projects ![image](https://user-images.githubusercontent.com/119161246/210149159-2359abfb-da75-4f70-a1a1-0ae72bb266a1.png)
+### SQL projects
 
 Methods used in the projects: **aggregations, CASE WHEN statements, CTEs, data cleaning, GROUP BY, joins, subqueries, pattern matchings, WHERE clauses, Window functions**
 
