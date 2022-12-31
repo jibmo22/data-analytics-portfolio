@@ -10,7 +10,7 @@
 
 
 ### Python projects
-Methods used in the projects:
+Methods used in the projects: **building and training machine learning models, data cleaning and manipulation & data visualisations and exploratory data analysis**
 
 
 | Project        | Description of the project           | Main libraries used  |
