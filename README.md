@@ -10,6 +10,8 @@
 
 
 ### Python projects
+Methods used in the projects:
+
 
 | Project        | Description of the project           | Main libraries used  |
 | ------------- |:-------------:| -----:|
