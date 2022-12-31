@@ -23,6 +23,7 @@ Methods used in the projects: **Building and Training Machine Learning Models, D
 
 
 ### SQL projects
+***
 
 Methods used in the projects: **Aggregations, CASE WHEN Statements, CTEs, Data Cleaning, GROUP BY, Joins, Subqueries, Pattern Matchings, WHERE Clauses, Window Functions**
 
