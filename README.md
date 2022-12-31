@@ -21,7 +21,7 @@ Methods used in the projects: **Building and Training Machine Learning Models, D
 | [Survival analysis with scooters 🛴](https://github.com/jibmo22/data-analytics-portfolio/blob/main/Python%20projects/Survival%20analysis%20with%20scooters.ipynb) | The project's aim was to conduct a survival and exploratory data analysis to reduce repair costs associated with scooters|pandas, numpy, seaborn, matplotlib & sksurv|
 
 ### SQL projects
-
+***
 Methods used in the projects: **Aggregations, CASE WHEN Statements, CTEs, Data Cleaning, GROUP BY, Joins, Subqueries, Pattern Matchings, WHERE Clauses, Window Functions**
 
 | Project        | Description of the project           | Dataset  |
